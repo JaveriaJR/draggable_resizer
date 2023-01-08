@@ -1,6 +1,6 @@
 name: draggable_resizer
 description: A flutter package to Allows to seemlessly drag the widget in two dimensional axis, along with resizing and rotating it the same time.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/JaveriaJR/draggable_resizer/tree/main
 
 environment:
